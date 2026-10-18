@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-盲道检测模型性能基准测试脚本
+盲道检测模型性能基准测试脚本 
 用法：
     python3 benchmark.py /path/to/model.cvimodel
 示例：

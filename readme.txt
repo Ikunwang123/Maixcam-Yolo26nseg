@@ -1,2 +1,1 @@
-本文件夹里面存放的是两种语言的后处理代码
-以及一个测试模型性能脚本benchmark.py
+本文件夹里面存放的是两种后处理代码（Maixpy和MaixCDK），一个测试模型性能脚本benchmark.py和我训练的模型yolo26nseg（盲道）

@@ -1,3 +1,2 @@
 本文件夹里面存放的是两种后处理代码（Maixpy和MaixCDK），一个测试模型性能脚本benchmark.py和我训练的模型yolo26nseg（盲道）
-具体项目阐述：https://maixhub.com/share/131
-文档：
+具体项目相关阐述：https://maixhub.com/share/131
